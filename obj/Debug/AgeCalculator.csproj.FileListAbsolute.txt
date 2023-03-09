@@ -1,0 +1,12 @@
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe.config
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.exe
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\bin\Debug\AgeCalculator.pdb
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.AssemblyReference.cache
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.SuggestedBindingRedirects.cache
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Properties.Resources.resources
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.GenerateResource.cache
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.csproj.CoreCompileInputs.cache
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.exe
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.pdb
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Form1.resources
+D:\C#\C_Sharp_Study\AgeCalculator\AgeCalculator\obj\Debug\AgeCalculator.Form2.resources
